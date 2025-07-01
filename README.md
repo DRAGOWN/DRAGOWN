@@ -76,7 +76,7 @@ certifications: ["OSEP", "OSCP", "OSWP", "eCPPT", "eJPT", "CEH", "SEC+", "KLCP"]
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/giorgi-dograshvili)
 [![Medium](https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://dragown.medium.com)
 [![GitHub Website](https://img.shields.io/badge/DRAGOWN-24292e?style=for-the-badge&logo=github&logoColor=white)](https://dragown.github.io)
-[![Exploit-DB](https://img.shields.io/badge/exploit%20DB-FFA500?style=for-the-badge&logo=exploit%20DB&logoColor=black)](https://www.exploit-db.com/?author=11884)
+[![Exploit-DB](https://img.shields.io/badge/exploitDB-FFA500?style=for-the-badge&logo=exploitDB&logoColor=black)](https://www.exploit-db.com/?author=11884)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DragownSec)
 [![Youtube](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@Dragown)
 [![Facebook](https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=black)](https://www.facebook.com/DragownSec)
