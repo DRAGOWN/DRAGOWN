@@ -1,16 +1,22 @@
-## Hi there 👋
+<!-- Banner (optional image) -->
+<p align="center">
+  <img src="https://github.com/DRAGOWN/DRAGOWN/blob/main/DRAGOWN%20Cover.png" alt="Banner" width="100%"/>
+</p>
 
-<!--
-**DRAGOWN/DRAGOWN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi there, I'm Giorgi Dograshvili 👋</h1>
+<h3 align="center"> Penetration Tester | Ethical Hacker </h3>
+<h3 align="center"><a href=https://dragown.github.io>D R A G O W N</a></h3>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧑‍💻 About Me
+
+```yaml
+$whoami: "Giorgi Dograshvili";
+alias: "DRAGOWN";
+location: "Tbilisi, Georgia";
+pt_skills: ["Active Directory", "Web Applications", "Mobile Applications", "Desktop Applications", "APIs", "OSINT", "Physical Testing"];
+methodologies: ["OWASP", "NIST", "MITRE ATT&CK", "PTES", "OSSTMM"];
+techniques: ["Phishing", "Privilege Escalation", "Defense Evasion", "Lateral Movement"];
+contribution: "Registered multiple CVEs with high and medium severity";
+certifications: ["OSEP", "OSCP", "OSWP", "eCPPT", "eJPT", "CEH", "SEC+", "KLCP"]
+```
