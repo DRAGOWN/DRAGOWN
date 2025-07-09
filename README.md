@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi there, I'm Giorgi Dograshvili 👋</h1>
-<h3 align="center"> 🛡️ Penetration Tester | 🔍 Security Researcher | 🎯 Bug Hunter </h3>
+<h3 align="center"> 🛡️ Penetration Tester </h3>
 
 ### 🧑‍💻 About Me
 
