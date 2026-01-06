@@ -73,12 +73,13 @@ certifications: ["OSEP", "OSCP", "OSWP", "eCPPT", "eJPT", "CEH", "SEC+", "KLCP"]
 
 ### 📫 Links to [hack] me
 
-[![LinkedIn](https://img.shields.io/badge/In-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/giorgi-dograshvili)
-[![Medium](https://img.shields.io/badge/MD-000000?style=for-the-badge&logo=medium&logoColor=white)](https://dragown.medium.com)
-[![GitHub Website](https://img.shields.io/badge/GH-24292e?style=for-the-badge&logo=github&logoColor=white)](https://dragown.github.io)
-[![Exploit-DB](https://img.shields.io/badge/eDB-FFA500?style=for-the-badge&logo=exploitDB&logoColor=black)](https://www.exploit-db.com/?author=11884)
-[![Twitter](https://img.shields.io/badge/TW-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DragownSec)
-[![Youtube](https://img.shields.io/badge/YT-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@Dragown)
-[![Facebook](https://img.shields.io/badge/FB-1877F2?style=for-the-badge&logo=facebook&logoColor=black)](https://www.facebook.com/DragownSec)
-[![Instagram](https://img.shields.io/badge/IG-C13584?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/DragownSec)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/giorgi-dograshvili)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://dragown.medium.com)
+[![GitHub Website](https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white)](https://dragown.github.io)
+[![Exploit-DB](https://img.shields.io/badge/exploit%20db-orange?style=for-the-badge)](https://www.exploit-db.com/?author=11884)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DragownSec)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@Dragown)
+[![Facebook](https://img.shields.io/badge/FaceBook-1877F2?style=for-the-badge&logo=facebook&logoColor=black)](https://www.facebook.com/DragownSec)
+[![Instagram](https://img.shields.io/badge/InstaGtam-C13584?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/DragownSec)
+[![Instagram](https://img.shields.io/badge/OFFSEC-2c0240?style=for-the-badge&logo=OffSec)](https://credentials.offsec.com/profile/dragown/wallet)
 
