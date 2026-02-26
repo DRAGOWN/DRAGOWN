@@ -3,8 +3,8 @@
   <img src="https://github.com/DRAGOWN/DRAGOWN/blob/main/DRAGOWN%20Cover.png" alt="Banner" width="100%"/>
 </p>
 
-<h1 align="center">Hi there, I'm Giorgi Dograshvili 👋</h1>
-<h3 align="center"> 🛡️ Penetration Tester </h3>
+<!-- <h1 align="center">Giorgi Dograshvili</h1>
+<h3 align="center"> 🛡️ Penetration Tester </h3> -->
 
 ### 🧑‍💻 About Me
 
@@ -71,7 +71,7 @@ certifications: ["OSEP", "OSCP", "OSWP", "eCPPT", "eJPT", "CEH", "SEC+", "KLCP"]
 </section>
 
 
-### 📫 Links to [hack] me
+### 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/giorgi-dograshvili)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://dragown.medium.com)
