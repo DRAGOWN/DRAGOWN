@@ -21,7 +21,7 @@ contribution: "Registered multiple CVEs with high and medium severity";
 certifications: ["OSEP", "OSCP", "OSWP", "eCPPT", "eJPT", "CEH", "SEC+", "KLCP"]
 ```
 
-### 📜 Narative
+### 📜 Narrative
 
   <p>
     Giorgi is a cybersecurity professional with hands-on expertise in penetration testing across a wide variety of digital environments. 
